@@ -17,8 +17,8 @@ public class EncryptDecryptMain {
 		EncryptDecrypt encrypt = new EncryptDecrypt();
 		String result = encrypt.Encrypt(string, key.charAt(0));
 
-		JOptionPane.showMessageDialog(null, "Llave : " + key + "\n"
-				+ "Cadena inicial:" + string + "\n" + "Cadena final  :"
+		JOptionPane.showMessageDialog(null, "Llave          : " + key + "\n"
+				+ "Cadena inicial : " + string + "\n" + "Cadena final   : "
 				+ result);
 	}
 }
