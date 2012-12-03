@@ -5,7 +5,7 @@ Ejercicio de encriptación de cadenas de String.
 
 Debe recibir como entrada un String y un caracter que hace de _clave de encriptación_
 
-Debe obtener el valor ASCII de la clave y convertirlo a su representación de úmero binario, de 8 dígitos.
+Debe obtener el valor ASCII de la clave y convertirlo a su representación denúmero binario, de 8 dígitos.
 
 Por cada letra del string recibido debe realizar lo siguiente:
 * Obtener el valor ASCII
